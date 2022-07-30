@@ -1,0 +1,1 @@
+UniRest'de Postman'de yapmış olduğum pet store Post işleminin başarılı olup olmadığını gerçekleştirdim.
